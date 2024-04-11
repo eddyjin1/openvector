@@ -7,7 +7,7 @@ setuptools.setup(
     name="openvector",
     version="0.0.3",
     author="Eddy Jin",
-    description="An open source vector embeddings database.",
+    description="An open source vector database.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/eddyjin1/openvector",
